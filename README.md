@@ -1,4 +1,4 @@
-# StudentAffairsWebsite
+# StudentAffairsWebsite (Apr 2022 - May 2022)
 It is a website for student affairs.
 1) Adding a new student to the system. Student information includes id, name, date of birth, GPA, gender, level, status (”active” or “inactive”), department, email, and mobile number.
 2) Updating existing student information (except department field).
